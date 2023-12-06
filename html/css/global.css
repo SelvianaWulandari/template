@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-just-another-hand: "Just Another Hand";
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-mini: 15px;
+    --font-size-2xl-5: 21.5px;
+    --font-size-mid-2: 17.2px;
+    --font-size-base-5: 16.5px;
+    --font-size-3xl-2: 22.2px;
+  
+    /* Colors */
+    --color-gray-100: #01081e;
+    --color-white: #fff;
+    --color-limegreen: #01d35b;
+    --color-black: #000;
+    --color-orange: #ffad03;
+  
+    /* Border radiuses */
+    --br-94xl-5: 113.5px;
+  }
+  
